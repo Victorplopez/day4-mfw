@@ -1,0 +1,35 @@
+
+.container-fluid {
+    background-color: beige;
+}
+
+.emptySpace{
+    height: 2em;
+}
+
+.emptySpace2x{
+    height: 4em;
+}
+
+.blocks {
+    background-color:black;
+}
+
+.row1{
+    height: 6em;
+}
+
+.row01{
+    height: 2em;
+}
+
+.row2 {
+    height: 40em;
+}
+
+.row3 {
+    height: 1.5em;
+}
+.row4 {
+    height: 15em;
+}
